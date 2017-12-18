@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 04e7521c0fb7d4d9989294c5d0fc4dca
+timeCreated: 1513524909
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adventuring
+  fontNames:
+  - Adventuring
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
