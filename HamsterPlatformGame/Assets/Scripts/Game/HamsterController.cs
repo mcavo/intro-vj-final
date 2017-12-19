@@ -21,6 +21,10 @@ public class HamsterController : MonoBehaviour {
 		rb = GetComponent<Rigidbody> ();
 		rb.freezeRotation = true;
 		blockCounter = 0;
+		if (Physics.gravity.y > 0) {
+			Physics.gravity = -Physics.gravity;
+		}
+
 	}
 
 	// Update is called once per frame
